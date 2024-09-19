@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JakeITSupport
+- 👋 Hi, I’m Jake
 - 👀 I’m interested in programming, music, and games
 - 🌱 I’m a graduate of IHE Diploma of Information Technology at Informatics Institute Baguio
 - 💞️ I’m looking to collaborate on ...
